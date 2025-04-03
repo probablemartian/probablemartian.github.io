@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Robotics Prototyping Club",
-    "label": "WPI Student Organization",
-    "picture": "https://github.com/wpi-rpc.png",
-    "email": "rpc-exec@wpi.edu",
+    "name": "Emma Maertz",
+    "label": "Robotics Engineering and Computer Science Double Major at WPI",
+    "picture": "https://github.com/probablemartian.png",
+    "email": "emaertz@wpi.edu",
     "phone": "",
     "website": "https://wpi-rpc.github.io",
     "summary": "We're a group of students from Worcester Polytechnic Institute (WPI), Massachusetts, that put our maker skills towards specialized robotics projects! All in the name of fostering a community around clean hobbyist robotics done right.",
@@ -14,14 +14,14 @@
       { "network": "instagram", "username": "wpi_rpc", "url": "https://instagram.com/wpi_rpc/" }
     ],
     "unused-profiles": [
-      { "network": "linkedin", "username": "N/A", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "Emma Maertz", "url": "http://linkedin.com/in/emmamaertz" },
       { "network": "twitter", "username": "N/A", "url": "http://twitter.com/changeme" }
     ]
   },
   "interests": [
     { "name": "Robotics" },
     { "name": "3D Printing" },
-    { "name": "Embedded Computing" },
+    { "name": "Programming" },
     { "name": "Computer Vision" },
     { "name": "Machine Learning" }
   ],
